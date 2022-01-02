@@ -1,6 +1,6 @@
 # sw_Jung.github.io
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=6FC7E1&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFA883&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
 
 <div align=center><h1>👋 Hi, I’m @Jung Seok Won(StandardCircle) </h1></div>
 
