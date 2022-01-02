@@ -2,7 +2,6 @@
 
 <h1>👋 Hi, I’m @Jung Seok Won(StandardCircle) </h1></div>
 
-</div>
 
 # About me 
 [![Tech Blog Badge](http://img.shields.io/badge/-StandardCircle-black?style=flat-square&logo=github&link=https://github.com/StandardCircle/)](https://github.com/StandardCircle/) 
