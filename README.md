@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
 
-<div align=center><h1>👋 Hi, I’m @Jung Seok Won(StandardCircle) </h1></div>
+<h1>👋 Hi, I’m @Jung Seok Won(StandardCircle) </h1></div>
 
 
 
