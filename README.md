@@ -2,6 +2,7 @@
 
 
 <center># About me</center>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-StandardCircle-black?style=flat-square&logo=github&link=https://github.com/StandardCircle/)](https://github.com/StandardCircle/) 
 [![Gmail Badge](https://img.shields.io/badge/mae01181@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mae01181@gmail.com)](mailto:mae01181@gmail.com)
 [![Instagram](https://img.shields.io/badge/sw_jung96-ff69b4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sw_jung96/?hl=ko)
