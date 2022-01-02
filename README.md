@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
 
-
-<div align="center">
-  About me
-</div>
-
 <div align=center> </div>
 
   [![Tech Blog Badge](http://img.shields.io/badge/-StandardCircle-black?style=flat-square&logo=github&link=https://github.com/StandardCircle/)](https://github.com/StandardCircle/) 
